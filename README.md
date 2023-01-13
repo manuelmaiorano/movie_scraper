@@ -5,5 +5,5 @@ Scrapes movie descriptions and images off IMDB and generates index.html file in 
 that can navigated to show each movie decription.
 
 ## Installation
-Requires only requests_cache (an alternative to requests that caches), and beautifulsoup, create a virtual enviroment
+Requires only requests_cache (an alternative to requests that caches), beautifulsoup, and PIL. Create a virtual enviroment
 and pip install those dependencies. Write movie titles in a file called queries.txt and run main.py.
